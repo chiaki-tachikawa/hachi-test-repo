@@ -13,6 +13,16 @@ import regex as re
 
 #create function to preprocess data
 def preprocessor (data, col):
+  import pandas as pd
+  import numpy as np
+  import nltk
+  from nltk.corpus import stopwords
+  nltk.download("stopwords")
+  nltk.download("punkt")
+  nltk.download("punkt_tab")
+  from nltk.tokenize import word_tokenize
+  from collections import Counter
+  import regex as re
   #Lower the lettercase
   data[col] = data[col].str.lower()
 
