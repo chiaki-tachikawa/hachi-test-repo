@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOSJNExRmzwzkS8AzuVknLU",
+      "authorship_tag": "ABX9TyNmeTj6omb7uQxyR94mBn8k",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,7 +23,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/chiaki-tachikawa/hachi-test-repo/blob/test/rectangle.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/chiaki-tachikawa/hachi-test-repo/blob/test/library/rectangle.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "metadata": {
         "id": "Zd-ioWK8Fr_F"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -58,6 +58,15 @@
       ],
       "metadata": {
         "id": "iMlx8D30FxqO"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "daXpL4y6N8dR"
       },
       "execution_count": null,
       "outputs": []
